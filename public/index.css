@@ -14,3 +14,8 @@ blockquote {
 #usage-div {
     text-align: center;
 }
+
+code {
+    color: black;
+    background-color: white;
+}
