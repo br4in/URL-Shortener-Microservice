@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+#title-div {
+    text-align: center;
+}
+
+blockquote {
+    border-bottom: 1px solid white;
+}
+
+#usage-div {
+    text-align: center;
+}
