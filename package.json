@@ -1,0 +1,22 @@
+{
+  "name": "url_shortner",
+  "version": "1.0.0",
+  "description": "URL Shortener Microservice",
+  "main": "server.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/br4in/URL-Shortener-Microservice.git"
+  },
+  "author": "br4in",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/br4in/URL-Shortener-Microservice/issues"
+  },
+  "homepage": "https://github.com/br4in/URL-Shortener-Microservice#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
